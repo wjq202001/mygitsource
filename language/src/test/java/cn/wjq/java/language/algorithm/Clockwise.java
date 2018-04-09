@@ -4,7 +4,8 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Created by Wang Juqiang on 2018/4/9.
+ *
+ * 将一个m*n矩阵，顺时针操作旋转一步，得到一个新的矩阵
  */
 public class Clockwise {
     private int[][] clockwise(int[][] a){
